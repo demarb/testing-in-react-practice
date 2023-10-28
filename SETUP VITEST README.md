@@ -20,7 +20,8 @@
    },
 7. Install msw; if you are doing mocking
 
-## Shortcut install : npm i @testing-library/react @testing-library/jest-dom vitest jsdom msw
+## Shortcut install : 
+npm i @testing-library/react @testing-library/jest-dom vitest jsdom msw
 
 ## Types of Test Covered:
 
