@@ -18,9 +18,12 @@
    // since parsing CSS is slow
    // css: true,
    },
-7. Install msw; if you are doing mocking
+7. Add to package.json
+   "test": "vitest"
+8. Install msw; if you are doing mocking
 
-## Shortcut install : 
+## Shortcut install :
+
 npm i @testing-library/react @testing-library/jest-dom vitest jsdom msw
 
 ## Types of Test Covered:
