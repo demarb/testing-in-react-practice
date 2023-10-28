@@ -1,4 +1,6 @@
-Steps Taken:
+# Setup Vitest React Testing Steps taken
+
+## Steps Taken:
 
 1. Install @testing-library/react
 2. Install @testing-library/jest-dom for added functionality like toBeInTheDocument
@@ -18,9 +20,9 @@ Steps Taken:
    },
 7. Install msw; if you are doing mocking
 
-Shortcut install : npm i @testing-library/react @testing-library/jest-dom vitest jsdom msw
+## Shortcut install : npm i @testing-library/react @testing-library/jest-dom vitest jsdom msw
 
-Types of Test Covered:
+## Types of Test Covered:
 
 1. Basic Component Testing
 2. Multiple Elements
