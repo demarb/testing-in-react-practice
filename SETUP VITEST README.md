@@ -21,10 +21,12 @@
 7. Add to package.json
    "test": "vitest"
 8. Install msw; if you are doing mocking
+9. npm install --save-dev jest jest-axe jest-environment-jsdom ; this is for accesibility testing. Some packages may already have been installed. Check taskslicr for example
 
 ## Shortcut install :
 
 npm i @testing-library/react @testing-library/jest-dom vitest jsdom msw
+npm install --save-dev jest jest-axe jest-environment-jsdom
 
 ## Types of Test Covered:
 
